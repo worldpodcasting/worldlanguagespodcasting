@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>English Podcast - Improve your English language skills by listening to conversations about Australian culture</title>
+  <link>http://www.worldlanguagespodcasting.com</link>
+  <description>World Languages Podcasting provides a podcast series in various languages for the intermediate to advanced language student to help improve language skills and knowledge of Australian culture. Each conversation is complemented with a full transcript and a page of language exercises that may be downloaded from the website www.worldlanguagespodcasting.com.</description>
+  <language>en</language>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <copyright>&#x2117; &amp; &#xA9; World Podcasting Pty Ltd</copyright>
+  <itunes:new-feed-url>http://www.worldlanguagespodcasting.com/podcasts/english.xml</itunes:new-feed-url>
+  <itunes:subtitle>Conversations in English about Language &amp; Culture in Australia</itunes:subtitle>
+  <itunes:author>World Languages Podcasting</itunes:author>
+  <itunes:owner>
+   <itunes:email>contact@worldlanguagespodcasting.com</itunes:email>
+   <itunes:name>World Languages Podcasting</itunes:name>
+  </itunes:owner>
+  <itunes:category text="Education">
+   <itunes:category text="Language Courses"/>
+  </itunes:category>
+  <itunes:category text="Education">
+   <itunes:category text="Higher Education"/>
+  </itunes:category>
+  <itunes:category text="Society &amp; Culture">
+   <itunes:category text="Places &amp; Travel"/>
+  </itunes:category>
+  <itunes:keywords>intermediate,advanced,Australia,conversation,culture,language,learn,transcript,education,listening,reading,speaking</itunes:keywords>
+  <itunes:image href="http://www.worldlanguagespodcasting.com/images/itunes_image_english_4.png"/>
+  <itunes:explicit>clean</itunes:explicit>
+  <item>
+   <title>Podcast in English #9 - Australian films (continued)</title>
+   <description>Glen and Lynne continue their discussion about the Australian films that are culturally
+significant to the Australian people.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_009.mp3" length="4696212" type="audio/mpeg" />
+   <pubDate>Sun, 19 Aug 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_009.mp3</guid>
+   <itunes:duration>00:13:02</itunes:duration>
+   <itunes:subtitle>Australian films (continued)</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #8 - Australian films</title>
+   <description>Glen and Lynne discuss a selection of Australian films that are generally considered to be culturally significant to the Australian people.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_008.mp3" length="5229254" type="audio/mpeg" />
+   <pubDate>Mon, 18 Jun 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_008.mp3</guid>
+   <itunes:duration>00:14:31</itunes:duration>
+   <itunes:subtitle>Australian films</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #7 - Christmas in Australia</title>
+   <description>Lynne and Glen discuss the nature of Christmas in Australia and how it contrasts to the Christmas experienced overseas.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_007.mp3" length="3956104" type="audio/mpeg" />
+   <pubDate>Mon, 28 May 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_007.mp3</guid>
+   <itunes:duration>00:10:59</itunes:duration>
+   <itunes:subtitle>Christmas in Australia</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #6 - Iconic Australian People</title>
+   <description>Nicole Kidman. Steve Irwin. Colleen McCullough. Ned Kelly. Lynne and Glen ponder a number of individuals that could be quite easily categorised as iconic Australian people.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_006.mp3" length="7645798" type="audio/mpeg" />
+   <pubDate>Sun, 06 May 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_006.mp3</guid>
+   <itunes:duration>00:21:14</itunes:duration>
+   <itunes:subtitle>Iconic Australian People</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #5 - Australian Cultural Icons</title>
+   <description>In this podcast, Glen talks with his friend Lynne about locations that are undoubtedly considered as Australian cultural icons.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_005.mp3" length="5689280" type="audio/mpeg" />
+   <pubDate>Tue, 17 Apr 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_005.mp3</guid>
+   <itunes:duration>00:15:48</itunes:duration>
+   <itunes:subtitle>Australian Cultural Icons</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #4 - The Australian secondary school experience</title>
+   <description>Glen speaks to Ben, an Australian secondary student, about his impressions of life at a secondary school in Melbourne. Ben also draws on his experience of his exchange student experience to Germany and his family home stay.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_004.mp3" length="6288177" type="audio/mpeg" />
+   <pubDate>Sat, 24 Mar 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_004.mp3</guid>
+   <itunes:duration>00:17:28</itunes:duration>
+   <itunes:subtitle>The Australian secondary school experience</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #3 - Studying in Australia</title>
+   <description>How does Australian society structure its system of education? How expensive is an Australian education? Which avenues of study are open to both international students and Australian citizens?</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_003.mp3" length="9114239" type="audio/mpeg" />
+   <pubDate>Sat, 03 Mar 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_003.mp3</guid>
+   <itunes:duration>00:25:19</itunes:duration>
+   <itunes:subtitle>Studying in Australia</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #2 - Australian People</title>
+   <description>Who are the Australian people? Rozenn and Glen discuss the multicultural and multifaceted society that is Australia.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_002.mp3" length="6240981" type="audio/mpeg" />
+   <pubDate>Fri, 09 Feb 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_002.mp3</guid>
+   <itunes:duration>00:17:20</itunes:duration>
+   <itunes:subtitle>Australian People</itunes:subtitle>
+  </item>
+  <item>
+   <title>Podcast in English #1 - Australian Slang</title>
+   <description>Rozenn and Glen discuss some of the slang words and expressions that are used in every day language in Australia.</description>
+   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/eng/eng_001.mp3" length="5198845" type="audio/mpeg" />
+   <pubDate>Fri, 19 Jan 2007 12:00:00 GMT</pubDate>
+   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/eng/eng_001.mp3</guid>
+   <itunes:duration>00:14:26</itunes:duration>
+   <itunes:subtitle>Australian Slang</itunes:subtitle>
+  </item>
+ </channel>
+</rss>
