@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
  <channel>
   <title>Chinese Podcast - Improve your Chinese language skills by listening to conversations about Australian culture</title>
-  <link>http://www.worldlanguagespodcasting.com</link>
+  <link>https://www.worldlanguagespodcasting.com</link>
   <description>World Languages Podcasting provides a podcast series in various languages for the language student or native speaker to help improve language skills and knowledge of Australian culture. Each conversation is complemented with a full transcript and a page of language exercises that may be downloaded from the website www.worldlanguagespodcasting.com.</description>
   <language>zh</language>
-  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <docs>https://cyber.harvard.edu/rss/rss.html</docs>
   <copyright>&#8471; &amp; &#169; World Podcasting Pty Ltd</copyright>
-  <itunes:new-feed-url>http://www.worldlanguagespodcasting.com/podcasts/chinese.xml</itunes:new-feed-url>
+  <itunes:new-feed-url>https://www.worldlanguagespodcasting.com/podcasts/chinese.xml</itunes:new-feed-url>
   <itunes:subtitle>Conversations in Chinese about Language &amp; Culture in Australia</itunes:subtitle>
   <itunes:author>World Languages Podcasting</itunes:author>
   <itunes:owner>
@@ -24,50 +24,50 @@
    <itunes:category text="Places &amp; Travel"/>
   </itunes:category>
   <itunes:keywords>intermediate,advanced,Australia,conversation,culture,language,learn,transcript,education,listening,reading,speaking</itunes:keywords>
-  <itunes:image href="http://www.worldlanguagespodcasting.com/images/itunes_image_chinese_4.png"/>
+  <itunes:image href="https://www.worldlanguagespodcasting.com/images/itunes_image_chinese_4.png"/>
   <itunes:explicit>clean</itunes:explicit>
   <item>
    <title>Podcast in Chinese #5 - Australian people&apos;s love of sport, the unique environment for sports and outstanding sporting achievements</title>
    <description>Australians love sport very much and the Australian environment is suitable for all kinds of sports. In this podcast, Steve and CiCi explore Australia&apos;s obsession with sport and some notable sporting achievements of partcular Australians.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/chi/chi_005.mp3" length="3772266" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/chi/chi_005.mp3" length="3772266" type="audio/mpeg" />
    <pubDate>Mon, 28 May 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/chi/chi_005.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/chi/chi_005.mp3</guid>
    <itunes:duration>00:10:28</itunes:duration>
    <itunes:subtitle>Australian people&apos;s love of sport, the unique environment for sports and outstanding sporting achievements</itunes:subtitle>
   </item>
   <item>
    <title>Podcast in Chinese #4 - Australian lifestyle and health</title>
    <description>Why do Australians, in general, live a long and healthy life? What health concerns do some Australians have to face? How does the government respond to these issues?</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/chi/chi_004.mp3" length="3805805" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/chi/chi_004.mp3" length="3805805" type="audio/mpeg" />
    <pubDate>Fri, 11 May 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/chi/chi_004.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/chi/chi_004.mp3</guid>
    <itunes:duration>00:10:34</itunes:duration>
    <itunes:subtitle>Australian lifestyle and health</itunes:subtitle>
   </item>
   <item>
    <title>Podcast in Chinese #3 - Visiting Chinese families in summer holidays and Chinese people coming to Australia for their holidays</title>
    <description>In their third podcast, Steven and CiCi talk about the Chinese going back to China to visit their families and friends. Also, they both explore why people from mainland China choose Australia as their most preferred holiday destination.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/chi/chi_003.mp3" length="3958153" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/chi/chi_003.mp3" length="3958153" type="audio/mpeg" />
    <pubDate>Wed, 18 Apr 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/chi/chi_003.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/chi/chi_003.mp3</guid>
    <itunes:duration>00:10:59</itunes:duration>
    <itunes:subtitle>Visiting Chinese families in summer holidays and Chinese people coming to Australia for their holidays</itunes:subtitle>
   </item>
   <item>
    <title>Podcast in Chinese #2 - Christmas and New Year</title>
    <description>How do the Australian people celebrate their Christmas? What do they eat for Christmas dinner? Where they go for their holidays after Christmas and how do Australians celebrate the New Year?</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/chi/chi_002.mp3" length="3883847" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/chi/chi_002.mp3" length="3883847" type="audio/mpeg" />
    <pubDate>Sun, 25 Mar 2007 13:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/chi/chi_002.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/chi/chi_002.mp3</guid>
    <itunes:duration>00:10:47</itunes:duration>
    <itunes:subtitle>Christmas and New Year</itunes:subtitle>
   </item>
   <item>
    <title>Podcast in Chinese #1 - Migrating to Australia</title>
    <description>In their first podcast, Steven and Ci Ci discuss their experiences before and after migrating to Australia.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/chi/chi_001.mp3" length="4325682" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/chi/chi_001.mp3" length="4325682" type="audio/mpeg" />
    <pubDate>Sun, 25 Mar 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/chi/chi_001.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/chi/chi_001.mp3</guid>
    <itunes:duration>00:12:00</itunes:duration>
    <itunes:subtitle>Migrating to Australia</itunes:subtitle>
   </item>

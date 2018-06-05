@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
  <channel>
   <title>French Podcast - Improve your French language skills by listening to conversations about Australian culture</title>
-  <link>http://www.worldlanguagespodcasting.com</link>
+  <link>https://www.worldlanguagespodcasting.com</link>
   <description>World Languages Podcasting provides a podcast series in various languages for the intermediate to advanced language student to help improve language skills and knowledge of Australian culture. Each conversation is complemented with a full transcript and a page of language exercises that may be downloaded from the website www.worldlanguagespodcasting.com.</description>
   <language>fr</language>
-  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <docs>https://cyber.harvard.edu/rss/rss.html</docs>
   <copyright>&#x2117; &amp; &#xA9; World Podcasting Pty Ltd</copyright>
-  <itunes:new-feed-url>http://www.worldlanguagespodcasting.com/podcasts/french.xml</itunes:new-feed-url>
+  <itunes:new-feed-url>https://www.worldlanguagespodcasting.com/podcasts/french.xml</itunes:new-feed-url>
   <itunes:subtitle>Conversations in French about Language &amp; Culture in Australia</itunes:subtitle>
   <itunes:author>World Languages Podcasting</itunes:author>
   <itunes:owner>
@@ -24,95 +24,95 @@
    <itunes:category text="Places &amp; Travel"/>
   </itunes:category>
   <itunes:keywords>intermediate,advanced,Australia,conversation,culture,language,learn,transcript,education,listening,reading,speaking</itunes:keywords>
-  <itunes:image href="http://www.worldlanguagespodcasting.com/images/itunes_image_french_4.png"/>
+  <itunes:image href="https://www.worldlanguagespodcasting.com/images/itunes_image_french_4.png"/>
   <itunes:explicit>clean</itunes:explicit>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #10 – Comment obtenir un visa travail?</title>
    <description xml:lang="fr">Olivier, un jeune Fran&#231;ais, parle son exp&#233;rience de son obtention d&apos;un visa travail temporaire.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_010.mp3" length="3962230" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_010.mp3" length="3962230" type="audio/mpeg" />
    <pubDate>Tues, 9 Apr 2008 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_010.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_010.mp3</guid>
    <itunes:duration>00:11:00</itunes:duration>
    <itunes:subtitle xml:lang="fr">Comment obtenir un visa travail?</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #9 – Un stage professionnel &#224; Melbourne</title>
    <description xml:lang="fr">St&#233;phanie, une jeune Fran&#231;aise parle &#224; son ami fran&#231;ais Olivier au sujet de son stage professionnel &#224; Melbourne.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_009.mp3" length="3410054" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_009.mp3" length="3410054" type="audio/mpeg" />
    <pubDate>Sun, 11 Nov 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_009.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_009.mp3</guid>
    <itunes:duration>00:09:28</itunes:duration>
    <itunes:subtitle xml:lang="fr">Un stage professionnel &#224; Melbourne</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #8 - la Tasmanie</title>
    <description xml:lang="fr">En Australie, on conna&#238;t la Tasmanie comme &#171; L&apos;&#238;le des Pommes &#187;. On peut y trouver plein de choses &#224; faire et &#224; voir. Dans cet enregistrement Glen fait un voyage au sud du continent pour faire un petit tour de l&apos;&#238;le et interviewer Caroline son amie tasmanienne.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_008.mp3" length="3952960" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_008.mp3" length="3952960" type="audio/mpeg" />
    <pubDate>Mon, 18 Jun 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_008.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_008.mp3</guid>
    <itunes:duration>00:10:58</itunes:duration>
    <itunes:subtitle xml:lang="fr">la Tasmanie</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #7 - Les &#233;coles mixtes et non mixtes</title>
    <description xml:lang="fr">Durga et Glen se r&#233;unissent pour discuter du d&#233;bat qui existe en Australie depuis longtemps; faut-il envoyer un enfant &#224; une &#233;cole mixte ou non mixte?</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_007.mp3" length="4566126" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_007.mp3" length="4566126" type="audio/mpeg" />
    <pubDate>Mon, 28 May 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_007.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_007.mp3</guid>
    <itunes:duration>00:12:40</itunes:duration>
    <itunes:subtitle xml:lang="fr">Les &#233;coles mixtes et non mixtes</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #6 - La cuisine australienne</title>
    <description xml:lang="fr">Un pavlova? Un meat pie? Un lamington? Un chiko roll? Quels sont ces produits qui sont distinctivement australiens? Glen et sa coll&#232;gue Durga parlent de ces petits plaisirs que l&apos;on mange aux antipodes.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_006.mp3" length="7453484" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_006.mp3" length="7453484" type="audio/mpeg" />
    <pubDate>Sun, 06 May 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_006.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_006.mp3</guid>
    <itunes:duration>00:20:42</itunes:duration>
    <itunes:subtitle xml:lang="fr">La cuisine australienne</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #5 - Les lieux touristiques en Australie</title>
    <description xml:lang="fr">Le continent australien offre une grande vari&#233;t&#233; d&apos;endroits que l&apos;on peut visiter et appr&#233;cier. Rozenn et Glen discutent des lieux que les touristes et les Australiens fr&#233;quentent et admirent.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_005.mp3" length="6836423" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_005.mp3" length="6836423" type="audio/mpeg" />
    <pubDate>Mon, 16 Apr 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_005.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_005.mp3</guid>
    <itunes:duration>00:18:59</itunes:duration>
    <itunes:subtitle xml:lang="fr">Les lieux touristiques en Australie</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #4 - La t&#233;l&#233;vision en Australie</title>
    <description xml:lang="fr">Quelle est la qualit&#233; de la t&#233;l&#233;vision australienne? A quel genre d&apos;&#233;missions les Australiens s&apos;int&#233;ressent-ils? Rozenn et Glen font une comparaison entre les &#233;missions disponibles en Australie et en France</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_004.mp3" length="4125383" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_004.mp3" length="4125383" type="audio/mpeg" />
    <pubDate>Sun, 25 Mar 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_004.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_004.mp3</guid>
    <itunes:duration>00:11:27</itunes:duration>
    <itunes:subtitle xml:lang="fr">La t&#233;l&#233;vision en Australie</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #3 - Les &#233;tudes en Australie</title>
    <description xml:lang="fr">Rozenn et Glen vont faire une comparaison entre le syst&#232;me scolaire en Australie et en France.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_003.mp3" length="10002304" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_003.mp3" length="10002304" type="audio/mpeg" />
    <pubDate>Sat, 03 Mar 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_003.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_003.mp3</guid>
    <itunes:duration>00:27:47</itunes:duration>
    <itunes:subtitle xml:lang="fr">Les &#233;tudes en Australie</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #2 - Le peuple australien</title>
    <description xml:lang="fr">Glen et Rozenn vont discuter pendant une dizaine de minutes des origines diverses du peuple australien.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_002.mp3" length="5124406" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_002.mp3" length="5124406" type="audio/mpeg" />
    <pubDate>Fri, 09 Feb 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_002.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_002.mp3</guid>
    <itunes:duration>00:14:14</itunes:duration>
    <itunes:subtitle xml:lang="fr">Le peuple australien</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="fr">Podcast en fran&#231;ais #1 - Australien argotique et familier</title>
    <description xml:lang="fr">Ce premier podcast traite de l&apos;anglais australien. Glen, Aussie bloke (un Australien), et Rozenn, une Frenchie (une Fran&#231;aise), discutent des mots et expressions qui font partie du langage quotidien des australiens.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/fre/fre_001.mp3" length="6401019" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/fre/fre_001.mp3" length="6401019" type="audio/mpeg" />
    <pubDate>Fri, 19 Jan 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/fre/fre_001.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/fre/fre_001.mp3</guid>
    <itunes:duration>00:17:46</itunes:duration>
    <itunes:subtitle xml:lang="fr">Australien argotique et familier</itunes:subtitle>
   </item>

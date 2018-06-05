@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
  <channel>
   <title>Indonesian Podcast - Improve your Indonesian language skills by listening to conversations about Australian culture</title>
-  <link>http://www.worldlanguagespodcasting.com</link>
+  <link>https://www.worldlanguagespodcasting.com</link>
   <description>World Languages Podcasting provides a podcast series in various languages for the intermediate to advanced language student to help improve language skills and knowledge of Australian culture. Each conversation is complemented with a full transcript and a page of language exercises that may be downloaded from the website www.worldlanguagespodcasting.com.</description>
   <language>id</language>
-  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <docs>https://cyber.harvard.edu/rss/rss.html</docs>
   <copyright>&#x2117; &amp; &#xA9; World Podcasting Pty Ltd</copyright>
-  <itunes:new-feed-url>http://www.worldlanguagespodcasting.com/podcasts/indonesian.xml</itunes:new-feed-url>
+  <itunes:new-feed-url>https://www.worldlanguagespodcasting.com/podcasts/indonesian.xml</itunes:new-feed-url>
   <itunes:subtitle>Conversations in Indonesian about Language &amp; Culture in Australia</itunes:subtitle>
   <itunes:author>World Languages Podcasting</itunes:author>
   <itunes:owner>
@@ -24,23 +24,23 @@
    <itunes:category text="Places &amp; Travel"/>
   </itunes:category>
   <itunes:keywords>intermediate,advanced,Australia,conversation,culture,language,learn,transcript,education,listening,reading,speaking</itunes:keywords>
-  <itunes:image href="http://www.worldlanguagespodcasting.com/images/itunes_image_indonesian.png"/>
+  <itunes:image href="https://www.worldlanguagespodcasting.com/images/itunes_image_indonesian.png"/>
   <itunes:explicit>clean</itunes:explicit>
   <item>
    <title xml:lang="id">Podcast #2 Bahasa Indonesia - Judul: Kebakaran hutan di Indonesia</title>
    <description xml:lang="id">Kebakaran hutan di Indonesia, sebuah ringkasan mengenai kompleksitas masalah ini dikarenakan kaitannya dengan masalah kemiskinan, pembangunan, serta tata kepemerintahan di Indonesia.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ind/ind_002.mp3" length="4382442" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ind/ind_002.mp3" length="4382442" type="audio/mpeg" />
    <pubDate>Sun, 19 Aug 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ind/ind_002.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ind/ind_002.mp3</guid>
    <itunes:duration>00:12:10</itunes:duration>
    <itunes:subtitle xml:lang="id">Judul: Kebakaran hutan di Indonesia</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="id">Podcast #1 Bahasa Indonesian - Dari Bandung ke Melbourne</title>
    <description xml:lang="id">"Dari Bandung ke Melbourne" adalah uraian pengalaman seorang warga Indonesia berasal dari Bandung, sebuah kota di Jawa Barat Indonesia yang kemudian menetap di Melbourne sejak 27 tahun yang lalu.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ind/ind_001.mp3" length="4124291" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ind/ind_001.mp3" length="4124291" type="audio/mpeg" />
    <pubDate>Sun, 29 Jul 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ind/ind_001.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ind/ind_001.mp3</guid>
    <itunes:duration>00:11:27</itunes:duration>
    <itunes:subtitle xml:lang="id">Dari Bandung ke Melbourne</itunes:subtitle>
   </item>

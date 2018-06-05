@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
  <channel>
   <title>Italian Podcast - Improve your Italian language skills by listening to conversations about Australian culture</title>
-  <link>http://www.worldlanguagespodcasting.com</link>
+  <link>https://www.worldlanguagespodcasting.com</link>
   <description>World Languages Podcasting provides a podcast series in various languages for the intermediate to advanced language student to help improve language skills and knowledge of Australian culture. Each conversation is complemented with a full transcript and a page of language exercises that may be downloaded from the website www.worldlanguagespodcasting.com.</description>
   <language>it</language>
-  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <docs>https://cyber.harvard.edu/rss/rss.html</docs>
   <copyright>&#8471; &amp; &#169; World Podcasting Pty Ltd</copyright>
-  <itunes:new-feed-url>http://www.worldlanguagespodcasting.com/podcasts/italian.xml</itunes:new-feed-url>
+  <itunes:new-feed-url>https://www.worldlanguagespodcasting.com/podcasts/italian.xml</itunes:new-feed-url>
   <itunes:subtitle>Conversations in Italian about Language &amp; Culture in Australia</itunes:subtitle>
   <itunes:author>World Languages Podcasting</itunes:author>
   <itunes:owner>
@@ -24,32 +24,32 @@
    <itunes:category text="Places &amp; Travel"/>
   </itunes:category>
   <itunes:keywords>intermediate,advanced,Australia,conversation,culture,language,learn,transcript,education,listening,reading,speaking</itunes:keywords>
-  <itunes:image href="http://www.worldlanguagespodcasting.com/images/itunes_image_italian_4.png"/>
+  <itunes:image href="https://www.worldlanguagespodcasting.com/images/itunes_image_italian_4.png"/>
   <itunes:explicit>clean</itunes:explicit>
   <item>
    <title xml:lang="it">Italiano Podcast #11 - Il sistema scolastico Preview</title>
    <description xml:lang="it">Riccardo e Anna parlano del sistema scolastico in Victoria dove tutti gli studenti devono portare la divisa, e lo contrastano al sistema italiano dove non bisogna portare la divisa, né nelle scuole private, né in quelle pubbliche.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_011.mp3" length="854033" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_011.mp3" length="854033" type="audio/mpeg" />
    <pubDate>Mon, 26 Apr 2010 00:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_011.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_011.mp3</guid>
    <itunes:duration>00:02:22</itunes:duration>
    <itunes:subtitle xml:lang="it">Il sistema scolastico Preview</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="it">Italiano Podcast #10 - Zaino in spalla... a scuola! Preview</title>
    <description xml:lang="it">Riccardo e Anna parlano del sistema scolastico australiano e dell'insegnamento delle lingue straniere. Riccardo, in particolare, parla della sua esperienza come assistente linguistico nelle scuole del Vittoria.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_010.mp3" length="859682" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_010.mp3" length="859682" type="audio/mpeg" />
    <pubDate>Sun, 04 Oct 2009 04:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_010.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_010.mp3</guid>
    <itunes:duration>00:02:23</itunes:duration>
    <itunes:subtitle xml:lang="it">Zaino in spalla... a scuola! Preview</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="it">Italiano Podcast #9 - Festivit&#224; a confronto Preview</title>
    <description xml:lang="it">Riccardo e Anna parlano delle principali festivit&#224; italiane.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_009.mp3" length="860145" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_009.mp3" length="860145" type="audio/mpeg" />
    <pubDate>Sun, 13 Sep 2009 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_009.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_009.mp3</guid>
    <itunes:duration>00:02:23</itunes:duration>
    <itunes:subtitle xml:lang="it">Festivit&#224; a confronto Preview</itunes:subtitle>
   </item>
@@ -57,9 +57,9 @@
    <title xml:lang="it">Italiano Podcast #8 - Festivit&#224; italiane</title>
    <description xml:lang="it">Riccardo e Anna parlano delle principali festivit&#224; italiane e notano le differenze
 rispetto alle abitudini australiane.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_008.mp3" length="5250414" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_008.mp3" length="5250414" type="audio/mpeg" />
    <pubDate>Sun, 26 Aug 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_008.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_008.mp3</guid>
    <itunes:duration>00:14:35</itunes:duration>
    <itunes:subtitle xml:lang="it">Festivit&#224; italiane</itunes:subtitle>
   </item>
@@ -67,18 +67,18 @@ rispetto alle abitudini australiane.</description>
    <title xml:lang="it">Italiano Podcast #7 - Festivit&#224; australiane</title>
    <description xml:lang="it">Riccardo e Anna parlano delle principali festivit&#224; australiane e notano le differenze
 rispetto alle abitudini italiane.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_007.mp3" length="6231419" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_007.mp3" length="6231419" type="audio/mpeg" />
    <pubDate>Tue, 05 Jun 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_007.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_007.mp3</guid>
    <itunes:duration>00:17:18</itunes:duration>
    <itunes:subtitle xml:lang="it">Festivit&#224; australiane</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="it">Italiano Podcast #6 - Dal deserto all&apos;oceano</title>
    <description xml:lang="it">Riccardo e Anna parlano delle loro esperienze di viaggi in giro per l&apos;Australia: Riccardo descrive la sua avventura nell&apos;outback mentre Anna racconta il suo incontro con l&apos;oceano.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_006.mp3" length="5990519" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_006.mp3" length="5990519" type="audio/mpeg" />
    <pubDate>Fri, 11 May 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_006.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_006.mp3</guid>
    <itunes:duration>00:16:38</itunes:duration>
    <itunes:subtitle xml:lang="it">Dal deserto all&apos;oceano</itunes:subtitle>
   </item>
@@ -86,45 +86,45 @@ rispetto alle abitudini italiane.</description>
    <title xml:lang="it">Italiano Podcast #5 - L&apos;anima dell&apos;Australia</title>
    <description xml:lang="it">In questa quinta sessione Anna e Riccardo riprendono la loro conversazione per
 scambiarsi impressioni e opinioni sulle nuove esperienze fatte, e in particolare soffermandosi sulla situazione della popolazione aborigena.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_005.mp3" length="6248034" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_005.mp3" length="6248034" type="audio/mpeg" />
    <pubDate>Mon, 16 Apr 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_005.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_005.mp3</guid>
    <itunes:duration>00:17:21</itunes:duration>
    <itunes:subtitle xml:lang="it">L&apos;anima dell&apos;Australia</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="it">Italiano Podcast #4 - Moda e sport</title>
    <description xml:lang="it">In questa quarta podcast, Anna e Riccardo fanno un confronto fra la moda italiana e quella australiana. Infine si sottolinea la passione che gli australiani hanno per lo sport e la loro attenzione a mantenersi sempre in una buona forma fisica.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_004.mp3" length="5869980" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_004.mp3" length="5869980" type="audio/mpeg" />
    <pubDate>Sat, 24 Mar 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_004.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_004.mp3</guid>
    <itunes:duration>00:16:18</itunes:duration>
    <itunes:subtitle xml:lang="it">Moda e sport</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="it">Italiano Podcast #3 - Ospitalit&#224; e cucina australiana a confronto</title>
    <description xml:lang="it">In questa terza podcast, Anna e Riccardo si scambiano opinioni sul diverso modo di vivere il rapporto con il cibo degli australiani e italiani, e del diverso modo di concepire l&apos;ospitalita.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_003.mp3" length="7063076" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_003.mp3" length="7063076" type="audio/mpeg" />
    <pubDate>Sat, 03 Mar 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_003.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_003.mp3</guid>
    <itunes:duration>00:19:37</itunes:duration>
    <itunes:subtitle xml:lang="it">Ospitalit&#224; e cucina australiana a confronto</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="it">Italiano Podcast #2 - La qualit&#224; della vita in Australia e in Italia a confronto</title>
    <description xml:lang="it">In questo secondo podcast, Anna e Riccardo, mettono a confronto aspetti del vivere in societ&#224; italiano e australiano. Gli autori riflettono sul ritmo e il costo della vita nelle due nazioni, gli spazi dove i due popoli vivono: le citt&#224;, le case, i piccoli paesi.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_002.mp3" length="6586617" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_002.mp3" length="6586617" type="audio/mpeg" />
    <pubDate>Fri, 09 Feb 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_002.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_002.mp3</guid>
    <itunes:duration>00:18:17</itunes:duration>
    <itunes:subtitle xml:lang="it">La qualit&#224; della vita in Australia e in Italia a confronto</itunes:subtitle>
   </item>
   <item>
    <title xml:lang="it">Italiano Podcast #1 - Conversazione sull&apos;esperienza di due italiani in Australia</title>
    <description xml:lang="it">In questa prima podcast, Anna e Riccardo, due ragazzi italiani che stanno vivendo un&apos;esperienza di lavoro, vacanza e studio a Melbourne, si confrontano sulle impressioni che hanno avuto circa la cultura e la lingua australiana.</description>
-   <enclosure url="http://www.worldlanguagespodcasting.com/podcasts/ita/ita_001.mp3" length="6228320" type="audio/mpeg" />
+   <enclosure url="https://www.worldlanguagespodcasting.com/podcasts/ita/ita_001.mp3" length="6228320" type="audio/mpeg" />
    <pubDate>Fri, 19 Jan 2007 12:00:00 GMT</pubDate>
-   <guid isPermaLink="true">http://www.worldlanguagespodcasting.com/podcasts/ita/ita_001.mp3</guid>
+   <guid isPermaLink="true">https://www.worldlanguagespodcasting.com/podcasts/ita/ita_001.mp3</guid>
    <itunes:duration>00:17:18</itunes:duration>
    <itunes:subtitle xml:lang="it">Conversazione sull&apos;esperienza di due italiani in Australia</itunes:subtitle>
   </item>
